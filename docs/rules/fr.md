@@ -8,7 +8,6 @@ Soyez certain de lire et d'adhérer pleinement aux règles suivantes au sein de 
 
 *3)* Toute question, discussion ou liens en relation avec :
 
-    • Génération de comptes PTC,
     • Exploits,
     • Botting,
     • Programmes ou code malicieux,

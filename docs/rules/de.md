@@ -8,7 +8,6 @@ Halte dich in unserer Gruppe stets an die folgenden Regeln:
 
 *3)* Fragen, Diskussionen oder Links zu den Themen:
 
-    • Erzeugen von PTC-Accounts,
     • Exploits,
     • Bots,
     • Böswillige oder schadhafte Software,

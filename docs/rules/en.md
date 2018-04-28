@@ -1,21 +1,22 @@
 __**Welcome to PogoDev**__
 
-Be sure to adhere to the following rules within our community:
+Please adhere to the following guidelines within our community:
 
-*1)* Any discussion in the platform or language-specific channels may **only** be associated with development. All other chatter, please defer to #lounge.
+*1)* Any discussion in the API/RE specific channels may **only** be associated with development. All other chatter, please defer to #lounge.
 
-*2)* Unauthorized advertisement of your website, service, or product is **strictly forbidden**.
+*2)* Unauthorized advertisement of your website, service, or product is **frowned upon**.
 
 *3)* Questions, discussions or links to:
 
-    • Generation of PTC accounts,
     • Exploits,
-    • Botting,
+    • **General Botting,** *(e.g NecroBot, MyGoBot, etc...)*
     • Malicious code or programs,
     • Copyrighted material,
     • Soliciting, begging, advertising, referrals, auctioning and sales of software, accounts or otherwise;
 
     are all **strictly forbidden**.
+
+**Exploiters**, **Bot Developers** and the like are still welcome within the community, however the above must still be adhered to.
 
 *4)* We want everyone to feel welcome, regardless of gender, age, sexual orientation, disability, race, ethnicity, religion (or lack thereof). As such, the following behaviour will not be tolerated to or from members of this community:
 

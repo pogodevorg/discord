@@ -8,7 +8,6 @@ Zorg dat je aan de volgende regels houdt binnen onze community:
 
 3) Vragen, discussies of links naar:
 
-- Generatie van PTC accounts,
 - Exploits,
 - Bots,
 - kwaadaardige code of programma's,
