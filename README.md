@@ -28,7 +28,7 @@
     None
 
 ## Contributing
-Currently, you can contribute to this project by:
+Currently, you can contribute to this project by: 
 * Submitting a detailed [issue](https://github.com/pogodevorg/discord/issues/new).
 * [Forking the project](https://github.com/pogodevorg/discord/fork), and sending a pull request back to for review.
 
